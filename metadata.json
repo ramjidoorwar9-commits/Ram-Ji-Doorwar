@@ -1,0 +1,6 @@
+{
+  "name": "Secure Call Vault",
+  "description": "Flagship Android application for securely importing, AES-256 encrypting, and managing call recordings via Storage Access Framework with automated background scanning and playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
